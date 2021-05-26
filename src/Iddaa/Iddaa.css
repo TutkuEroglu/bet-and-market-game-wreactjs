@@ -1,0 +1,43 @@
+.All {
+    background-color: white;
+    display:flex
+}
+
+.Baslat {
+    background-color: white;
+    height: 35px;
+    width: 300px;
+}
+
+.ligTablo {
+    width: 1000px;
+    height: 700px;
+    border: 1px solid black;
+    background-color: white;
+    min-height: 610px;
+}
+
+.ligTablo .Takimlar {
+    
+}
+
+.Fikstur {
+    width: 800px;
+    height: 300px;
+    border: 1px solid black;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+}
+.Fiksturr {
+    width: 300px;
+    height: 800px;
+    border: 1px solid black;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+}

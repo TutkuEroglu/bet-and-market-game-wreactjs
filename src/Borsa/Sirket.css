@@ -1,0 +1,87 @@
+.Sirketler {
+    
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+}
+
+.Sirketler .Sirketa {
+    border: 3px solid black;
+    width: 40vw;
+}
+
+.Sirketler .Sirketb {
+    border: 3px solid black;
+    position:relative;
+    width: 28vw;
+    left: 777px;
+    bottom: 766px;
+}
+
+.Sirketler .Sirketbb {
+    margin-bottom: 2px;
+    position: relative;
+    height: 40px;
+    text-align: start;
+    font-size: 15px;
+    display: flex;
+}
+
+.Sirketler .Satinal {
+    border: 3px solid black;
+    position:relative;
+    width: 20vw;
+    height: 510px;
+    bottom: 137.9%;
+    left: 69%;
+}
+
+.Satinal .Satinall {
+    width: 19.7vw;
+    height: 250px;
+}
+.Satinall .SatinFoto {
+    border-bottom: 2px solid black;
+    width: 19.7vw;
+    height: 150px;
+}
+.Satinall .Satinbut {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    position: relative;
+    top: 0px;
+    border-bottom: 2px solid black;
+    width: 19.7vw;
+    height: 50px;
+}
+
+.Satinall2 {
+    background-color: black;
+    position: absolute;
+    bottom: 400px;
+    right: 197px;
+    width: 19.7vw;
+    height: 50px;
+}
+.Satinall2 .SatinFoto2 {
+    position: absolute;
+    bottom: -136px;
+    background-color: red;
+    border-bottom: 2px solid black;
+    width: 19.7vw;
+    height: 58px;
+}
+.Satinbut22 {
+    background-color: yellow;
+    top: 0px;
+    border-bottom: 2px solid black;
+    width: 19.7vw;
+    height: 50px;
+}
+
+
+
+
+
+
