@@ -43,9 +43,9 @@ function Sirket() {
             if ( counter >= 50000 ) {
                 dispatch(decrement( 50000))
                 setEmre(true)
-                alert("çabuk kiraya ver afferin")
+                alert("çabuk kiraya ver")
             } else {
-                alert("villa senin neyine amk fakiri")
+                alert("villa senin neyine")
             }
         }
 
@@ -63,7 +63,7 @@ function Sirket() {
 
         const CafeKirala = () => {    
             if (counter) {
-            alert("tebrikler amk kira alıyosun")
+            alert("tebrikler kira alıyosun")
             const int3 = setInterval(() => {
                 belespara();
               }, 1000);
