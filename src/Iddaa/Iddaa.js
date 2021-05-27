@@ -70,7 +70,7 @@ function Iddaa() {
       val.tuttugun = 1
       setVis(true)
     } else {
-      alert("takım destekleyecek kadar paran mı var amk")
+      alert("takım destekleyecek kadar paran yok")
     }
   }
 
@@ -742,7 +742,7 @@ if (aytım.guc > item.guc ) {
           dispatch(increment(1000))
           alert("Tuttuğun takım 4. oldu. Kârın 1000")
          } else {
-           alert("Desteklediğin takımı sikiyim")
+           alert("Takımın ilk 4'e giremedi")
          } }
          
          let a = Iddaadata.find( ({siralama}) => siralama === 1)
